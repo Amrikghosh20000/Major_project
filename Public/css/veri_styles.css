@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#logo{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+#mobileCenter{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
+#doneRight{
+    position: absolute;
+    left: 850px;
+    top: 200px;
+}
+#two{
+    position: absolute;
+    left: 800px;
+    top: 400px;
+}
+#one{
+    position: absolute;
+    left: 920px;
+    top: 560px;
+}
+
+#button{
+    position: absolute;
+    bottom: 200px;
+    left: 925px;
+    background-color: #7c5ef2;
+    color: rgb(245, 249, 252);
+    width: 120px;
+    height: 40px;
+    border-radius: 36px;
+    padding-left: 20px;
+    padding-top: 9px;
+    font-size: 20px;
+}
